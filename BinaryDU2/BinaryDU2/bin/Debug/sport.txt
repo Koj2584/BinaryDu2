@@ -1,0 +1,5 @@
+1;Jakub;Vomela;m;176;67
+2;Dan;Suchy;m;186;102
+3;Filip;Zazvor;m;172;73
+4;Alena;Starkova;z;159;62
+5;Linda;Zelena;z;195;74
